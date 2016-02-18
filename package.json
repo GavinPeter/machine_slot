@@ -1,0 +1,17 @@
+{
+  "name": "Machine Slot",
+  "description": "Machine Slot",
+  "version": "0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "position": "center",
+	"icon": "app.ico",
+    "frame":false,
+	"fullscreen":true,
+    "width": 800,
+    "height": 600,
+    "min_width": 640,
+    "min_height": 480
+  }
+}
